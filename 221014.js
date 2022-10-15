@@ -23,7 +23,6 @@ function solution(n) {
 //A2.
 
 function solution(s) {
-  var answer = true;
   let str = s.split("");
   let countY = 0;
   let countP = 0;
