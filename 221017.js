@@ -68,3 +68,8 @@ function solution(seoul) {
     }
   }
 }
+
+/**indexOf 메소드를 쓰면 위치를 바로 찾아준다. */
+function solution(seoul) {
+  return seoul.indexOf("Kim");
+}
